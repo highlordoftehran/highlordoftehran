@@ -1,4 +1,10 @@
-### Hi there 👋
+Hi my name is Ashkan and I'm currently uploading some tutorial projects I'm doing while learning react (and ASP.Net Core to some extend) to build something of a resume for myself in the meantime, so please avoid looking at them and save me some dignity.
+
+I hope for the day I know enough to write something here that can benefit you.
+
+sincerely
+
+HLoT
 
 <!--
 **highlordoftehran/highlordoftehran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

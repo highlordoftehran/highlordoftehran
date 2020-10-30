@@ -1,8 +1,8 @@
-Hi my name is Ashkan and I'm currently uploading some tutorial projects I'm doing while learning react (and ASP.Net Core to some extend) to build something of a resume for myself in the meantime, so please avoid looking at them and save me some dignity.
+My name is Ashkan and I'm currently uploading some tutorial projects I'm doing while learning react (and ASP.Net Core to some extend) to build something of a resume for myself in the meantime, so please avoid looking at them and save me some dignity.
 
-I hope for the day I know enough to write something here that can benefit you.
+The day will come that I know enough to write something here that can benefit you. you may leave now.
 
-sincerely
+Sincerely
 
 HLoT
 
